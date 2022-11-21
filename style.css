@@ -1,0 +1,12 @@
+.box-1
+{
+    width: 80px;
+    height: 80px;
+    background: red;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    display: flex;
+    color: white;
+
+}
